@@ -1,0 +1,4 @@
+paddlepaddle-gpu                  2.2.0.post112
+opencv-python                       4.5.4.60
+Pillow                                       8.4.0
+scikit-image                             0.19.0

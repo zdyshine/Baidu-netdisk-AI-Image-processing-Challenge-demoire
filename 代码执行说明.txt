@@ -1,0 +1,1 @@
+python test.py --root_test ./dataset/baidu/task1/moire_testB_dataset/
