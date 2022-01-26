@@ -51,3 +51,6 @@ modules: 定义模型
 log: 训练日志    
 loss: 损失函数    
 
+# 四、预训练模型：    
+https://aistudio.baidu.com/aistudio/projectdetail/3439099    
+运行项目，下载预训练模型，同时可以进行在线测试。
