@@ -1,6 +1,9 @@
 # 百度网盘AI大赛——图像处理挑战赛：文档图像摩尔纹消除第2名方案
 百度网盘AI大赛——图像处理挑战赛：文档图像摩尔纹消除第2名方案
 
+# 百度网盘AI大赛——美颜祛斑祛痘AB榜第一，决赛判评创新性低，放弃名次(指标比最终评选的第一高0.2db)    coda
+code: https://github.com/zdyshine/Faces-HQ-Retouching-Base-BaidunetDIsk    
+      https://aistudio.baidu.com/projectdetail/6714032?contributionType=1
 
 # 去除摩尔纹，A榜第一，B榜第二。
 采用改进的多尺度卷积神经网络来去除摩尔纹。
